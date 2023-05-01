@@ -1,0 +1,17 @@
+# Constants directory containing firebase credentials
+/src/Constants 
+
+# android transpiled dir
+/android
+
+# ios transpiled dir
+/ios
+
+# node modules
+/node_modules
+
+# tests dir
+/__tests__
+
+# bundle dir
+/.bundle
